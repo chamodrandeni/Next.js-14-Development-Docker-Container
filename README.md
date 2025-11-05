@@ -22,7 +22,7 @@ A ready-to-use Docker setup for developing Next.js 14 frontend applications. Thi
 
 1. Clone this repository:
 	```bash
-	git clone https://github.com/chamod-randeni/docker-continer-for-nextjs-applciation.git
+	git clone https://github.com/chamodrandeni/docker-continer-for-nextjs-applciation.git
 	cd docker-continer-for-nextjs-applciation/docker-for-next
 	```
 
